@@ -1,7 +1,7 @@
-Repository for python data tools. 
+<h1>Repository for python data tools. </h1>
 
 Current contents:
-	trendline.py
+	trendline.py\n
 	queue.py
 
 `trendline.py`
